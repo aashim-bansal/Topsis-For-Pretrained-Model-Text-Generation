@@ -1,0 +1,6 @@
+Model,Model_size_GB,Inference_Time_ms,BLEU_Score,Fact_Checking_Score_(0-100)
+Orion-14B_base,6.7,1.2,38.9,83
+PHI-2,1.7,0.9,36.4,87
+T5-base,0.7,1.5,37.4,85
+GPT-2,1.5,0.8,35.8,75
+Yi-34B,5.3,3.4,43.2,79
